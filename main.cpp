@@ -1,7 +1,7 @@
 #include "Headers/Vector.h"
 #include "Headers/Ray.h"
 #include "Headers/Objects.h"
-#include "Headers/Camera.h
+#include "Headers/Camera.h"
 #include "Headers/Frame.h"
 #include "Headers/Scene.h"
 #include "Headers/Random.h"
