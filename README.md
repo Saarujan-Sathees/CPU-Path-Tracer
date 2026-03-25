@@ -1,5 +1,5 @@
 # CPU-Path-Tracer
-A simple static, but slow path tracer that uses the CPU to render 3D scenes. Contains the following:
+A static path tracer that uses the CPU to render 3D scenes. Contains the following:
 
 - The option to render asynchronously, and the option to render to a PPM file or to the offline webpage image-viewer.html that allows frames to be rendered per aliasing count (rays-per-pixel)
 - Currently supports spheres, quadrilaterals and triangles with the use of bounding-box volumes
